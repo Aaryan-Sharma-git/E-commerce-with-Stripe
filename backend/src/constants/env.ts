@@ -14,3 +14,5 @@ export const MONGO_URI = getEnv('MONGO_URI');
 export const PORT = getEnv('PORT', '8000');
 export const FRONTEND_URL = getEnv('FRONTEND_URL');
 export const JWT_ACCESS_TOKEN_SECRET = getEnv('JWT_ACCESS_TOKEN_SECRET');
+export const STRIPE_SECRET_KEY = getEnv('STRIPE_SECRET_KEY');
+export const STRIPE_WEBHOOK_SECRET = getEnv('STRIPE_WEBHOOK_SECRET');

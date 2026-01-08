@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Wireless Headphones",
+    "description": "High quality wireless headphones with noise cancellation.",
+    "price": 2999,
+    "stock": 50
+  },
+  {
+    "name": "Mechanical Keyboard",
+    "description": "RGB mechanical keyboard with blue switches.",
+    "price": 4599,
+    "stock": 30
+  },
+  {
+    "name": "Gaming Mouse",
+    "description": "Ergonomic gaming mouse with adjustable DPI.",
+    "price": 1999,
+    "stock": 40
+  },
+  {
+    "name": "Smart Watch",
+    "description": "Fitness tracking smartwatch with heart rate monitor.",
+    "price": 3499,
+    "stock": 25
+  },
+  {
+    "name": "USB-C Fast Charger",
+    "description": "65W fast charger compatible with laptops and phones.",
+    "price": 1499,
+    "stock": 60
+  },
+  {
+    "name": "Bluetooth Speaker",
+    "description": "Portable Bluetooth speaker with deep bass.",
+    "price": 2799,
+    "stock": 35
+  }
+]
